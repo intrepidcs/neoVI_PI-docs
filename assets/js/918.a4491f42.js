@@ -1,0 +1,1 @@
+(self.webpackChunkneovi_pi=self.webpackChunkneovi_pi||[]).push([[918],{5741:()=>{},8974:(e,s,i)=>{"use strict";i.d(s,{A:()=>p});var n=i(8291);const p=n}}]);
