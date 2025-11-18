@@ -2,13 +2,13 @@
 title: Control membrane LEDs and Trigger Button
 description: neoVI PI Control membrane LEDs and Trigger Button
 keywords: [neoVI PI, Open Raspberry PI, Control membrane LEDs and Trigger Button]
-sidebar_position: 9
+sidebar_position: 10
 sidebar_label: Control membrane LEDs and Trigger Button
 ---
 
 # Control membrane LEDs and Trigger Button
 
-## 7. Control membrane LEDs and Trigger Button
+## 8. Control membrane LEDs and Trigger Button
 
 <div class="text--center">
 

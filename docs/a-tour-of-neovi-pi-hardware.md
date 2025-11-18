@@ -2,13 +2,13 @@
 title: A Tour of neoVI PI Hardware
 description: neoVI PI A Tour of neoVI PI Hardware
 keywords: [neoVI PI, Open Raspberry PI, A Tour of neoVI PI Hardware]
-sidebar_position: 4
+sidebar_position: 5
 sidebar_label: A Tour of neoVI PI Hardware
 ---
 
 # A Tour of neoVI PI Hardware
 
-## 3. A Tour of neoVI PI Hardware
+## 4. A Tour of neoVI PI Hardware
 
 Let’s now take a short tour of the neoVI PI’s hardware. We’ll examine the device from all sides, showing its external components and explaining what each does. This will help you become more familiar with the unit so you can more easily set up, configure and use it.
 
@@ -21,7 +21,7 @@ The neoVI PI is a complex device that does not contain any user-serviceable part
 
 :::
 
-### 3.1. Case and Overall Design
+### 4.1 Case and Overall Design
 
 The neoVI PI is enclosed in a sturdy black-anodized metal case. The device has been designed and tested for in-vehicle use, and is operational in a temperature range from -20°C to +85°C. An overall view of the neoVI PI can be seen in Figure 3.
 
@@ -40,7 +40,7 @@ To further protect the device against bumps and drops, it has red-colored rubber
 
 The bottom of the neoVI PI contains barcode that takes you to reference information, including the device serial number, pinouts of its HD-26 and µDB-9 connectors, and Intrepid’s contact information (Figure 4). Pinouts for all PI connectors and cables can be found in Chapter 8.
 
-### 3.2. Left Side Interfaces and Connectors
+### 4.2 Left Side Interfaces and Connectors
 
 <div class="text--center">
 
@@ -51,7 +51,7 @@ The bottom of the neoVI PI contains barcode that takes you to reference informat
 </figure>
 </div>
 
-### 3.3. Right Side Interfaces and Connectors
+### 4.3 Right Side Interfaces and Connectors
 
 <div class="text--center">
 
@@ -62,13 +62,13 @@ The bottom of the neoVI PI contains barcode that takes you to reference informat
 </figure>
 </div>
 
-### 3.4. Membrane LED Display and Keypad
+### 4.4 Membrane LED Display and Keypad
 
 The membrane contains 10 LEDs that provide immediate visual feedback about the status of the device, and two keypad buttons that can be used to toggle the indicator mode and for other functions.
 
 All of the LEDs and buttons are also scriptable: the buttons can be used for user input, and the LEDs can be programmed using Raspberry PI.
 
-### 3.5. Standard Cables and Cable Options
+### 4.5 Standard Cables and Cable Options
 
 You can purchase neoVI PI with several standard cables. We’ll now illustrate these cables and describe each one’s use.
 

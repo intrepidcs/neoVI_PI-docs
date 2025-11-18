@@ -2,13 +2,13 @@
 title: "Reference: Connector Pinouts and Cable Signal Mappings"
 description: "neoVI PI Reference: Connector Pinouts and Cable Signal Mappings"
 keywords: ["neoVI PI", "Open Raspberry PI", "Reference: Connector Pinouts and Cable Signal Mappings"]
-sidebar_position: 10
+sidebar_position: 11
 sidebar_label: "Reference: Connector Pinouts and Cable Signal Mappings"
 ---
 
 # Reference: Connector Pinouts and Cable Signal Mappings
 
-## 8. Reference: Connector Pinouts and Cable Signal Mappings
+## 9. Reference: Connector Pinouts and Cable Signal Mappings
 
 <div class="text--center">
 

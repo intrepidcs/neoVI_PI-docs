@@ -2,17 +2,17 @@
 title: "Support Contact Information"
 description: "neoVI PI Support Contact Information"
 keywords: ["neoVI PI", "Open Raspberry PI", "Support Contact Information"]
-sidebar_position: 11
+sidebar_position: 12
 sidebar_label: "Support Contact Information"
 ---
 
 # Support Contact Information
 
-## 9. Support Contact Information
+## 10. Support Contact Information
 
 If you have questions on our products or your application, we are here to help. Feel free to contact ICS for assistance at one of our offices.
 
-### 9.1. USA Headquarters
+### 10.1 USA Headquarters
 
 Live support is available from 8 am to 8 pm, Monday to Friday, Eastern Standard / Daylight Time (EST/EDT).
 
@@ -22,7 +22,7 @@ They can also be contacted at any time through our [Talk to an Expert](https://i
 
 Regardless of the method of contact, our support team will get back to you as soon as possible.
 
-### 9.2. ICS International Offices
+### 10.2 ICS International Offices
 
 For support in other regions, please refer to our website which lists the latest info for our other offices:
 

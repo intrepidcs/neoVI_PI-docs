@@ -2,13 +2,13 @@
 title: How to flash the neoVI PI CM4
 description: neoVI PI How to flash the neoVI PI CM4
 keywords: [neoVI PI, Open Raspberry PI, How to flash the neoVI PI CM4]
-sidebar_position: 5
+sidebar_position: 6
 sidebar_label: How to flash the neoVI PI CM4
 ---
 
 # How to flash the neoVI PI CM4
 
-## 4. How to flash the neoVI PI CM4
+## 5. How to flash the neoVI PI CM4
 
 This step by step guide will walk you through how to flash the CM4, overclock and run supertuxkart on it. Steps 1 - 4 are flashing and programming the CM4. Steps 5 and 6 are installing supertuxkart.
 

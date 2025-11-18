@@ -2,13 +2,13 @@
 title: Software Setup
 description: neoVI PI Software Setup
 keywords: [neoVI PI, Open Raspberry PI, Software Setup]
-sidebar_position: 7
+sidebar_position: 8
 sidebar_label: Software Setup
 ---
 
 # Software Setup
 
-## 6. Python ICS installation
+## 7. Python ICS installation
 
 ### Install ICS software on pi
 
